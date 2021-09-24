@@ -1,0 +1,5 @@
+libnbt-jni.cbp
+obj/*
+bin/*
+libnbt-jni.depend
+libnbt-jni.layout
