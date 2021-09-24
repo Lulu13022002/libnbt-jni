@@ -1,0 +1,22 @@
+package net.minecraft.server.c.libnbt;
+
+public enum NBTTagType {
+    NBT_TYPE_END,
+    NBT_TYPE_BYTE,
+    NBT_TYPE_SHORT,
+    NBT_TYPE_INT,
+    NBT_TYPE_LONG,
+    NBT_TYPE_FLOAT,
+    NBT_TYPE_DOUBLE,
+    NBT_TYPE_BYTE_ARRAY,
+    NBT_TYPE_STRING,
+    NBT_TYPE_LIST,
+    NBT_TYPE_COMPOUND,
+    NBT_TYPE_INT_ARRAY,
+    NBT_TYPE_LONG_ARRAY,
+    NBT_TYPE_SHORT_ARRAY,
+    NBT_TYPE_FLOAT_ARRAY,
+    NBT_TYPE_DOUBLE_ARRAY,
+    NBT_TYPE_STRING_ARRAY,
+    NBT_NO_OVERRIDE // Only used internally.
+}
