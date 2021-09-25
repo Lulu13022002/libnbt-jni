@@ -12,7 +12,7 @@ package path (if you change the package path or the C library)
 C documentation for the library is available [here](https://github.com/Lulu13022002/libnbt/blob/master/doc.md).
 
 ## Licence
-libnbt
+libnbt\
 Written in 2019 by IDidMakeThat
 
 To the extent possible under law, the author(s) have dedicated all copyright
@@ -24,7 +24,7 @@ with this software. If not, see <http://creativecommons.org/publicdomain/zero/1.
 
 The original bigtest.nbt (made available here in three different formats) can be found [here](https://wiki.vg/NBT).
 
-libnbt-jni
+libnbt-jni\
 Copyright (c) 2021 Lulu13022002
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
