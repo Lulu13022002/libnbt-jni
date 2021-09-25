@@ -9,7 +9,7 @@ Make sure to use javac then javah utilities to obtain header file according to y
 package path (if you change the package path or the C library)
 
 ## Documentation
-C documentation for the library is available [here](https://github.com/Lulu13022002/doc.md).
+C documentation for the library is available [here](https://github.com/Lulu13022002/libnbt/blob/master/doc.md).
 
 ## Licence
 libnbt
